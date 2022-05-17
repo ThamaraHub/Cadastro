@@ -4,6 +4,7 @@ public class Empresa
 {
     public static void main(String args[])
     {
+        // criação do objeto
         ListaPessoa listaCandidatos = new ListaPessoa();
         
         //chamada da lista de candidatos
